@@ -27,3 +27,5 @@
 
 6. The cached runtime of the 4th query was: 0.607 seconds.
 
+## Note:
+The following source was used in this challenge: https://www.datacamp.com/tutorial/group-by-having-clause-sql
